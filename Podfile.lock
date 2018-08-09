@@ -1,0 +1,16 @@
+PODS:
+  - Adhan (0.1.5)
+
+DEPENDENCIES:
+  - Adhan
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Adhan
+
+SPEC CHECKSUMS:
+  Adhan: a99ff959f806d4c0be7c73eaa768c99c4976d6e1
+
+PODFILE CHECKSUM: c4c34f17e71b46e40942f576a985197851ff8ae1
+
+COCOAPODS: 1.5.3
